@@ -101,3 +101,4 @@ function addToStringArray(item) {
 addToStringArray("Hello",'user'); // ✅
 //addToStringArray(123);     // ❌
 console.log(stringArray);
+// test git commit
