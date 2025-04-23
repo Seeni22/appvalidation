@@ -102,3 +102,7 @@ addToStringArray("Hello",'user'); // ✅
 //addToStringArray(123);     // ❌
 console.log(stringArray);
 // test git commit
+git remote add origin https://github.com/Seeni22/appvalidation.git
+git add test.js
+ git commit -m "second commit"
+ git push -u origin main
